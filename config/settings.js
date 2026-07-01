@@ -46,14 +46,14 @@ const MUSIC_TRACKS = [
    Nama file harus:  img1.jpeg  img2.jpeg  … img8.jpeg
    Ganti caption (keterangan foto) di setiap baris.               */
 const GALLERY_PHOTOS = [
-  { file: "img1.jpeg", caption: "our precious moment on the love lake " },  // ← GANTI CAPTION
-  { file: "img2.jpeg", caption: "u r so good at playing gamesss " },
-  { file: "img3.jpeg", caption: "blue hair baby gurl with pudding  },
-  { file: "img4.jpeg", caption: "non smile cutie " },
-  { file: "img5.jpeg", caption: "cute smile u have " },
-  { file: "img6.jpeg", caption: "our little fire that keeps growing " },
-  { file: "img7.jpeg", caption: "doing daily with my cutie " },
-  { file: "img8.jpeg", caption: "my cutie being cutie " },
+  { file: "img1.jpeg", caption: "our precious moment on the love lake" },  // ← GANTI CAPTION
+  { file: "img2.jpeg", caption: "u r so good at playing gamesss" },
+  { file: "img3.jpeg", caption: "blue hair baby gurl with pudding"  },
+  { file: "img4.jpeg", caption: "non smile cutie" },
+  { file: "img5.jpeg", caption: "cute smile u have" },
+  { file: "img6.jpeg", caption: "our little fire that keeps growing" },
+  { file: "img7.jpeg", caption: "doing daily with my cutie" },
+  { file: "img8.jpeg", caption: "my cutie being cutie" },
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
