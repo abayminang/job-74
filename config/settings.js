@@ -46,7 +46,7 @@ const MUSIC_TRACKS = [
    Nama file harus:  img1.jpeg  img2.jpeg  … img8.jpeg
    Ganti caption (keterangan foto) di setiap baris.               */
 const GALLERY_PHOTOS = [
-  { file: "img1.jpeg", caption: "our precious moment on the love lake 🩵" },  // ← GANTI CAPTION
+  { file: "img1.jpeg", caption: "our precious moment on the love lake " },  // ← GANTI CAPTION
   { file: "img2.jpeg", caption: "u r so good at playing gamesss " },
   { file: "img3.jpeg", caption: "blue hair baby gurl with pudding  },
   { file: "img4.jpeg", caption: "non smile cutie " },
